@@ -21,5 +21,7 @@ export default function Clock() {
       setTime(time);
     }, 1000);
   }, []);
-  return <div className="text-8xl text-[#dcbd6f] font-bold">{time}</div>;
+  return (
+    <div className="text-6xl md:text-8xl text-[#cdf5c4] font-bold">{time}</div>
+  );
 }

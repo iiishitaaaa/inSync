@@ -1,0 +1,6 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="clock-container">
+<path id="body" d="M87.5 11.7845C80.4567 8.70715 72.6777 7 64.5 7C32.7436 7 7 32.7436 7 64.5C7 96.2564 32.7436 122 64.5 122C96.2564 122 122 96.2564 122 64.5C122 56.6915 120.444 49.2465 117.624 42.4583" stroke="#FFFAFA" stroke-width="10" stroke-linecap="round"/>
+<path id="seconds" d="M64 64L97 32" stroke="white" stroke-width="11" stroke-linecap="round"/>
+</g>
+</svg>
